@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Salut, je suis Ahmed Yassine Afli
 
-<!--
-**AhmedYassineAfli/AhmedYassineAfli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Développeur Web & Étudiant Passionné
+Passionné par le développement web, je crée des applications modernes en utilisant HTML, CSS, JavaScript, PHP et MySQL.  
+J’aime apprendre, expérimenter et améliorer mes compétences à travers de nouveaux projets.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Compétences
+
+### 🖥️ Frameworks & Librairies
+- Angular  
+- React  
+- Bootstrap  
+
+### 🌐 Web Technologies
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### 🗄️ Bases de Données
+- MySQL  
+- SQL Server  
+- MongoDB  
+
+### 🛠️ Outils & Plateformes
+- VS Code  
+- Canva  
+- Postman  
+- Git & GitHub  
+- Etc…
+
+---
+
+## 📊 Statistiques GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AhmedYassineAfli&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYassineAfli&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Me Contacter
+- ✉️ Email : *(ajoute ton email ici)*  
+- 💼 LinkedIn : *(mets ton lien LinkedIn si tu veux)*  
+
+---
+
+✨ *Merci d’avoir visité mon profil ! N’hésite pas à découvrir mes projets ou à me contacter pour collaborer.*  
