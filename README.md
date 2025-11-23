@@ -28,7 +28,6 @@ J’aime apprendre, expérimenter et améliorer mes compétences à travers de n
 - Canva  
 - Postman  
 - Git & GitHub  
-- Etc…
 
 ---
 
