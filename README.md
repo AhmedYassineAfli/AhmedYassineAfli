@@ -41,8 +41,8 @@ J’aime apprendre, expérimenter et améliorer mes compétences à travers de n
 ---
 
 ## 📫 Me Contacter
-- ✉️ Email : *(ajoute ton email ici)*  
-- 💼 LinkedIn : *(mets ton lien LinkedIn si tu veux)*  
+- ✉️ Email : *(ahmedyassineafli94@gmail.com)*  
+- 💼 LinkedIn : *(https://www.linkedin.com/in/ahmed-yassine-afli-884343339/)*  
 
 ---
 
