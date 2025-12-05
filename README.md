@@ -23,7 +23,7 @@ J’aime apprendre, expérimenter et améliorer mes compétences à travers de n
 ### 🗄️ Bases de Données
 - MySQL  
 - SQL Server  
-- Postegres  
+- PostgreSQL  
 
 ### 🛠️ Outils & Plateformes
 - VS Code  
