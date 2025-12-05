@@ -9,7 +9,9 @@ J’aime apprendre, expérimenter et améliorer mes compétences à travers de n
 ## 🚀 Technologies & Compétences
 
 ### 🖥️ Frameworks & Librairies
-- Angular  
+- Angular
+- Spring Boot
+- VueJS
 - React  
 - Bootstrap  
 
@@ -21,7 +23,7 @@ J’aime apprendre, expérimenter et améliorer mes compétences à travers de n
 ### 🗄️ Bases de Données
 - MySQL  
 - SQL Server  
-- MongoDB  
+- Postegres  
 
 ### 🛠️ Outils & Plateformes
 - VS Code  
