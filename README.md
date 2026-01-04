@@ -38,7 +38,7 @@ I'm **Ahmed Yassine Afli**, a **FullStack Developer**
 
 ## 🧠 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,c,vue,spring&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,angular,react,vue,spring&theme=light" />
 </p>
 
 ---
