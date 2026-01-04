@@ -58,12 +58,6 @@ I'm **Ahmed Yassine Afli**, a **FullStack Developer**
 
 <img src="https://streak-stats.demolab.com?user=AhmedYassineAfli&theme=radical&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB" height="170em"/>
 
----
-
-## 🧩 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYassineAfli&layout=compact&theme=radical&hide_progress=true&langs_count=6&hide_border=false" />
-
 
 ---
 
