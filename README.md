@@ -62,7 +62,7 @@ I'm **Ahmed Yassine Afli**, a **FullStack Developer**
 
 ## 🧩 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYassineAfli&layout=compact&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedYassineAfli&layout=compact&theme=radical&hide_progress=true&langs_count=6&hide_border=false" />
 
 
 ---
